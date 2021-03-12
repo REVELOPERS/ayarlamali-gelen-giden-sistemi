@@ -1,0 +1,1 @@
+# ayarlamali-gelen-giden-sistemi
